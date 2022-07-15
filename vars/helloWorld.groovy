@@ -1,5 +1,6 @@
-def call()
+def call() {
   sh "echo hello world"
+}
 
 
 
